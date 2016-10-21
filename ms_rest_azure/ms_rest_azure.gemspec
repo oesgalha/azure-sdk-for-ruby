@@ -8,7 +8,7 @@ require 'ms_rest_azure/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'ms_rest_azure'
-  spec.version       = MsRestAzure::VERSION
+  spec.version       = '0.5.0'
   spec.authors       = 'Microsoft Corporation'
   spec.email         = 'azsdkteam@microsoft.com'
 
